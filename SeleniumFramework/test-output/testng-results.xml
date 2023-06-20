@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T14:20:59 PDT" name="Suite" finished-at="2023-06-19T14:21:10 PDT" duration-ms="11527">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T14:20:59 PDT" name="Test" finished-at="2023-06-19T14:21:10 PDT" duration-ms="11527">
+      <class name="com.automation.tests.SalesforceLogin">
+        <test-method is-config="true" signature="setUpForBeforeTest()[pri:0, instance:com.automation.tests.SalesforceLogin@41a0aa7d]" started-at="2023-06-19T14:20:59 PDT" name="setUpForBeforeTest" finished-at="2023-06-19T14:21:00 PDT" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForBeforeTest -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.SalesforceLogin@41a0aa7d]" started-at="2023-06-19T14:21:00 PDT" name="setUpBeforeTestMethod" finished-at="2023-06-19T14:21:03 PDT" duration-ms="3257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="checkRememberMe3()[pri:0, instance:com.automation.tests.SalesforceLogin@41a0aa7d]" started-at="2023-06-19T14:21:03 PDT" name="checkRememberMe3" finished-at="2023-06-19T14:21:10 PDT" duration-ms="7398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRememberMe3 -->
+        <test-method is-config="true" signature="TearDownAfterTestMethod()[pri:0, instance:com.automation.tests.SalesforceLogin@41a0aa7d]" started-at="2023-06-19T14:21:10 PDT" name="TearDownAfterTestMethod" finished-at="2023-06-19T14:21:10 PDT" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownAfterTestMethod -->
+      </class> <!-- com.automation.tests.SalesforceLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
